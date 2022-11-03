@@ -7,7 +7,7 @@ public class Ejecutar {
 
 		Matriz matrizAleatoria = new Matriz();
 
-		Matriz matrizManual = new Matriz(true);
+		Matriz matrizManual = new Matriz();
 
 		Matriz matrizResultado = new Matriz(matrizAleatoria.getX(), matrizManual.getX());
 
